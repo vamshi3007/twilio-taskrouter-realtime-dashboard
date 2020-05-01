@@ -31,7 +31,7 @@ This will install the web application and all the dependencies on Heroku (login 
 
 ### One Click Heroku Deploy of the server side app
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ameerbadri/twilio-taskrouter-realtime-dashboard)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vamshi3007/twilio-taskrouter-realtime-dashboard)
 
 Make a note of the URL that Heroku created for your app as you'll need it for the next Step
 
